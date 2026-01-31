@@ -1,4 +1,4 @@
-## 🏆 Silent Auction Program (Python)
+## 🏆 Day 9 Silent Auction Program (Python)
 
 This project is a **Silent Auction** program written in Python.
 It allows multiple users to place bids anonymously and automatically determines the highest bidder at the end of the auction.
