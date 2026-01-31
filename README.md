@@ -28,9 +28,11 @@ Udemy – 100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu.
 
 ## 🧩 Project Structure
 
+```text
 ├── main.py
 ├── day9art.py
 └── README.md
+```
 
 
 ## ▶️ Example Output
