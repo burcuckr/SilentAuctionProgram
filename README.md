@@ -56,31 +56,11 @@ The winner is Bob with a bid of 200
 - Functions
 
 
-## 🚀 How to Run
-
-python main.py
-
-
 ## ✨ What I Learned
 
 - Using dictionaries to store dynamic data
 - Writing reusable functions
 - Structuring cleaner Python code
-
-
-## 📚 Credits
-
-- Angela Yu
-- 100 Days of Code – Python Bootcamp
-
-
-## 👩‍💻 Author
-
-Burcu  
-https://github.com/burcuckr
-
-
-## ⭐ Future Improvements
 
 - Input validation
 - Handling duplicate bidder names
