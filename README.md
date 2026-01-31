@@ -62,6 +62,3 @@ The winner is Bob with a bid of 200
 - Writing reusable functions
 - Structuring cleaner Python code
 
-- Input validation
-- Handling duplicate bidder names
-- Object-Oriented Programming (OOP) version
